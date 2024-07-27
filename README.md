@@ -1,5 +1,5 @@
-# Projeto Cliente-Endereco
-Este projeto é uma aplicação Java baseada em Spring Boot que gerencia clientes e seus endereços. Utilizando JPA (Java Persistence API), a aplicação permite o armazenamento e a recuperação de informações sobre clientes e seus endereços associados. A aplicação é projetada para demonstrar o uso de relacionamentos um-para-um entre entidades e integração com serviços externos para validação e obtenção de dados.
+# Desafio Design Patterns com Java Spring
+Neste desafio desenvolvi um projeto que é uma aplicação Java baseada em Spring Boot que gerencia clientes e seus endereços. Utilizando JPA (Java Persistence API), a aplicação permite o armazenamento e a recuperação de informações sobre clientes e seus endereços associados. A aplicação é projetada para demonstrar o uso de relacionamentos um-para-um entre entidades e integração com serviços externos para validação e obtenção de dados.
 
 ## Funcionalidades
 * Gerenciamento de Clientes: Adicione, atualize, recupere e exclua informações de clientes.
